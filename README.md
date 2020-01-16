@@ -1,12 +1,11 @@
 # paliari/kubectl
 Docker image with kubectl
 
-> Images with *dev* suffix contains everything in *pro* and some other requirements for development like composer
-
 ### Versioning
 | Docker Tag | kubectl version | Ubuntu Version |
 |------------|-----------------|----------------|
 | 1.0.0      | 1.17.1          | 18.04.3        |
+| 1.0.1      | 1.17.1          | 18.04.3        |
 
 ### Links
 - [https://github.com/paliari-ti/docker-kubectl](https://github.com/paliari-ti/docker-kubectl)
@@ -17,7 +16,7 @@ Docker image with kubectl
 To pull from docker hub:
 
 ```
-docker pull paliari/kubectl:1.0.0
+docker pull paliari/kubectl:1.0.1
 ```
 
 ### Running
